@@ -59,4 +59,4 @@ should be combined into a single file ./processed_data/tracks.json.gz
 2. How long is the longest track in minutes?
 3. Which genre has the shortest average track length?
 4. Which artist shows up in the most playlists?
-5. What was the most popular album among these customers?
+5. What album had the most purchases?
