@@ -1,2 +1,14 @@
+#notebooks
 solution.ipynb
 working_notebook.ipynb
+
+# Jetbrains files
+.idea/
+
+# Mac
+*.DS_Store
+
+venv/
+
+#data
+*.json.gz

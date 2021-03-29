@@ -1,6 +1,6 @@
 # Data Engineer - Technical Assessment
 
-In this section of the interview at Beyond Finance, you will be assessed on your ability to perform several Data Engineering tasks. To perform well on these tasks, you will demonstate competence in the following areas:
+In this section of the interview at Beyond Finance, you will be assessed on your ability to perform several Data Engineering tasks. To perform well on these tasks, you will demonstrate competence in the following areas:
 
 * preprocessing data to prepare for a database load
 * understanding entity relationships in a database
