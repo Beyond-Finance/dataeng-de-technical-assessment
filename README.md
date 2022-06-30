@@ -60,3 +60,5 @@ should be combined into a single file ./processed_data/tracks.json.gz
 3. Which genre has the shortest average track length?
 4. Which artist shows up in the most playlists?
 5. What album had the most purchases?
+6. Which customer has the highest number of sales in terms of dollars?
+7. Count of customers who have dollar sales more than $40
