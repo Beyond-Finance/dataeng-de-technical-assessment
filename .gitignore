@@ -1,2 +1,4 @@
 solution.ipynb
 working_notebook.ipynb
+.venv/
+processed_data/*.json.gz
