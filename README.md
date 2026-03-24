@@ -18,7 +18,7 @@ This exercise will be broken into 2 parts
 2. Data Wrangling
 
 ### Data Processing
-In this section you will take files from the ./raw_data/ subfolders, combine them into a single newline-delimited `json.gz` file per subfolder, and place that CSV file in a processed_data/ directory. You may have to do some light investigation into the data files to understand their file formats and delimiters
+In this section you will take files from the `./raw_data/` subfolders, combine them into a single newline-delimited `json.gz` file per subfolder, and place them in a directory called `processed_data/`. You may have to do some light investigation into the data files to understand their file formats and delimiters
 
 **Example**
 
